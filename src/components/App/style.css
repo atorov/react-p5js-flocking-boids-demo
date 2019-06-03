@@ -1,0 +1,32 @@
+#app-root {
+    font-family: Roboto, sans-serif;
+}
+
+.app-content {
+    max-width: 1024px;
+}
+
+.github {
+    text-align: center;
+}
+
+.inputs-wrapper {
+    text-align: center;
+}
+
+.section {
+    margin: 8px auto;
+    padding: 8px;
+    border: 1px dashed lightgray;
+    border-radius: 4px;
+}
+
+.section-content {
+    display: flex;
+    justify-content: space-around;
+}
+
+.slider {
+    width: 100%;
+    margin-bottom: 32px;
+}
